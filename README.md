@@ -1,5 +1,5 @@
 # hand-gesture-game
-A small game that uses gestures to move and scale a piece of an image to fit on a hole. It uses mediapipe hands to detect your hands and SDL3 to display de images and piece you need to move.
+A small game that uses gestures to move and scale a piece of an image to fit on a hole. It uses mediapipe hands to detect your hands and SDL3 to display the images and piece you need to move.
 
 # How to run
 
