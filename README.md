@@ -21,12 +21,12 @@ then enter the virtual enviroment:
 
 Linux:
 ```bash
-    source venv/bin/activate
+    source .venv/bin/activate
 ```
 
 Windows:
 ```
-    venv/Scripts/activate
+    .venv/Scripts/activate
 ```
 
 then install the requirements on the enviroment
