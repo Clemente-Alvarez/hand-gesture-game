@@ -21,3 +21,4 @@ pytz==2026.3.post1
 six==1.17.0
 sounddevice==0.5.5
 tzdata==2026.3
+sdl3==0.9.11b1

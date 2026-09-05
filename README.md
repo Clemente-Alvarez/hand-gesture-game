@@ -10,10 +10,11 @@ if you don't have it installed first:
     pip install virtualenv
 ```
 
-then create the virtual enviroment form the *repository directory*
+then create the virtual enviroment on the *repository directory*
 
 ```bash
-    virtualenv venv
+    cd hand-gesture-game
+    python -m venv .venv
 ```
 
 then enter the virtual enviroment:
@@ -25,13 +26,14 @@ Linux:
 
 Windows:
 ```
-    venv/bin/activate
+    venv/Scripts/activate
 ```
 
 then install the requirements on the enviroment
 
 ```bash
-    pip install -r requirements.txt
+    python -m pip install --upgrade pip
+    python -m  pip install -r requirements.txt
 ```
 
 then execute the python script with:
